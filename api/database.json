@@ -1,0 +1,29 @@
+{
+  "clowns": [
+    {
+      "id": 1,
+      "name": "Buttons"
+    },
+    {
+      "id": 2,
+      "name": "Lollipop"
+    }
+  ],
+  "reservations": [
+    {
+      "parentName": "billy bob",
+      "address": "333 three ave ",
+      "resDate": "2022-10-03",
+      "resLength": "3",
+      "id": 3
+    }
+  ],
+  "completions": [
+    {
+      "reservationId": "3",
+      "clownId": "1",
+      "dateCreated": 116876.20000001788,
+      "id": 1
+    }
+  ]
+}
